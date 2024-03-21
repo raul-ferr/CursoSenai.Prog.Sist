@@ -1,0 +1,17 @@
+C:\Users\Aluno\source\repos\livros\livros\bin\Debug\net6.0-windows\livros.exe
+C:\Users\Aluno\source\repos\livros\livros\bin\Debug\net6.0-windows\livros.deps.json
+C:\Users\Aluno\source\repos\livros\livros\bin\Debug\net6.0-windows\livros.runtimeconfig.json
+C:\Users\Aluno\source\repos\livros\livros\bin\Debug\net6.0-windows\livros.dll
+C:\Users\Aluno\source\repos\livros\livros\bin\Debug\net6.0-windows\livros.pdb
+C:\Users\Aluno\source\repos\livros\livros\obj\Debug\net6.0-windows\livros.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\livros\livros\obj\Debug\net6.0-windows\livros.Form1.resources
+C:\Users\Aluno\source\repos\livros\livros\obj\Debug\net6.0-windows\livros.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\livros\livros\obj\Debug\net6.0-windows\livros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\livros\livros\obj\Debug\net6.0-windows\livros.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\livros\livros\obj\Debug\net6.0-windows\livros.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\livros\livros\obj\Debug\net6.0-windows\livros.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\livros\livros\obj\Debug\net6.0-windows\livros.dll
+C:\Users\Aluno\source\repos\livros\livros\obj\Debug\net6.0-windows\refint\livros.dll
+C:\Users\Aluno\source\repos\livros\livros\obj\Debug\net6.0-windows\livros.pdb
+C:\Users\Aluno\source\repos\livros\livros\obj\Debug\net6.0-windows\livros.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\livros\livros\obj\Debug\net6.0-windows\ref\livros.dll

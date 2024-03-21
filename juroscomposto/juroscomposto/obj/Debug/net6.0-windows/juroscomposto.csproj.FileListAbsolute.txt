@@ -1,0 +1,17 @@
+C:\Users\Aluno\source\repos\juroscomposto\juroscomposto\bin\Debug\net6.0-windows\juroscomposto.exe
+C:\Users\Aluno\source\repos\juroscomposto\juroscomposto\bin\Debug\net6.0-windows\juroscomposto.deps.json
+C:\Users\Aluno\source\repos\juroscomposto\juroscomposto\bin\Debug\net6.0-windows\juroscomposto.runtimeconfig.json
+C:\Users\Aluno\source\repos\juroscomposto\juroscomposto\bin\Debug\net6.0-windows\juroscomposto.dll
+C:\Users\Aluno\source\repos\juroscomposto\juroscomposto\bin\Debug\net6.0-windows\juroscomposto.pdb
+C:\Users\Aluno\source\repos\juroscomposto\juroscomposto\obj\Debug\net6.0-windows\juroscomposto.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\juroscomposto\juroscomposto\obj\Debug\net6.0-windows\juroscomposto.Form1.resources
+C:\Users\Aluno\source\repos\juroscomposto\juroscomposto\obj\Debug\net6.0-windows\juroscomposto.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\juroscomposto\juroscomposto\obj\Debug\net6.0-windows\juroscomposto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\juroscomposto\juroscomposto\obj\Debug\net6.0-windows\juroscomposto.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\juroscomposto\juroscomposto\obj\Debug\net6.0-windows\juroscomposto.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\juroscomposto\juroscomposto\obj\Debug\net6.0-windows\juroscomposto.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\juroscomposto\juroscomposto\obj\Debug\net6.0-windows\juroscomposto.dll
+C:\Users\Aluno\source\repos\juroscomposto\juroscomposto\obj\Debug\net6.0-windows\refint\juroscomposto.dll
+C:\Users\Aluno\source\repos\juroscomposto\juroscomposto\obj\Debug\net6.0-windows\juroscomposto.pdb
+C:\Users\Aluno\source\repos\juroscomposto\juroscomposto\obj\Debug\net6.0-windows\juroscomposto.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\juroscomposto\juroscomposto\obj\Debug\net6.0-windows\ref\juroscomposto.dll

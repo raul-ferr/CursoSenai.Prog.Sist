@@ -1,0 +1,11 @@
+C:\Users\Aluno\source\repos\calculadora2\calculadora2\bin\Debug\calculadora2.exe.config
+C:\Users\Aluno\source\repos\calculadora2\calculadora2\bin\Debug\calculadora2.exe
+C:\Users\Aluno\source\repos\calculadora2\calculadora2\bin\Debug\calculadora2.pdb
+C:\Users\Aluno\source\repos\calculadora2\calculadora2\obj\Debug\calculadora2.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\calculadora2\calculadora2\obj\Debug\calculadora2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\source\repos\calculadora2\calculadora2\obj\Debug\calculadora2.Form1.resources
+C:\Users\Aluno\source\repos\calculadora2\calculadora2\obj\Debug\calculadora2.Properties.Resources.resources
+C:\Users\Aluno\source\repos\calculadora2\calculadora2\obj\Debug\calculadora2.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\calculadora2\calculadora2\obj\Debug\calculadora2.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\calculadora2\calculadora2\obj\Debug\calculadora2.exe
+C:\Users\Aluno\source\repos\calculadora2\calculadora2\obj\Debug\calculadora2.pdb

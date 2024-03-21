@@ -1,0 +1,11 @@
+C:\Users\Aluno\source\repos\Estrutura de Seleção ou condicional 18.07.23\Estrutura de Seleção ou condicional 18.07.23\bin\Debug\Estrutura de Seleção ou condicional 18.07.23.exe.config
+C:\Users\Aluno\source\repos\Estrutura de Seleção ou condicional 18.07.23\Estrutura de Seleção ou condicional 18.07.23\bin\Debug\Estrutura de Seleção ou condicional 18.07.23.exe
+C:\Users\Aluno\source\repos\Estrutura de Seleção ou condicional 18.07.23\Estrutura de Seleção ou condicional 18.07.23\bin\Debug\Estrutura de Seleção ou condicional 18.07.23.pdb
+C:\Users\Aluno\source\repos\Estrutura de Seleção ou condicional 18.07.23\Estrutura de Seleção ou condicional 18.07.23\obj\Debug\Estrutura de Seleção ou condicional 18.07.23.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\Estrutura de Seleção ou condicional 18.07.23\Estrutura de Seleção ou condicional 18.07.23\obj\Debug\Estrutura de Seleção ou condicional 18.07.23.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\source\repos\Estrutura de Seleção ou condicional 18.07.23\Estrutura de Seleção ou condicional 18.07.23\obj\Debug\Estrutura_de_Seleção_ou_condicional_18._07._23.Form1.resources
+C:\Users\Aluno\source\repos\Estrutura de Seleção ou condicional 18.07.23\Estrutura de Seleção ou condicional 18.07.23\obj\Debug\Estrutura_de_Seleção_ou_condicional_18._07._23.Properties.Resources.resources
+C:\Users\Aluno\source\repos\Estrutura de Seleção ou condicional 18.07.23\Estrutura de Seleção ou condicional 18.07.23\obj\Debug\Estrutura de Seleção ou condicional 18.07.23.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\Estrutura de Seleção ou condicional 18.07.23\Estrutura de Seleção ou condicional 18.07.23\obj\Debug\Estrutura de Seleção ou condicional 18.07.23.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\Estrutura de Seleção ou condicional 18.07.23\Estrutura de Seleção ou condicional 18.07.23\obj\Debug\Estrutura de Seleção ou condicional 18.07.23.exe
+C:\Users\Aluno\source\repos\Estrutura de Seleção ou condicional 18.07.23\Estrutura de Seleção ou condicional 18.07.23\obj\Debug\Estrutura de Seleção ou condicional 18.07.23.pdb

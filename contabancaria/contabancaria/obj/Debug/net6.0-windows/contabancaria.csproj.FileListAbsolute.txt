@@ -1,0 +1,17 @@
+C:\Users\Aluno\source\repos\contabancaria\contabancaria\bin\Debug\net6.0-windows\contabancaria.exe
+C:\Users\Aluno\source\repos\contabancaria\contabancaria\bin\Debug\net6.0-windows\contabancaria.deps.json
+C:\Users\Aluno\source\repos\contabancaria\contabancaria\bin\Debug\net6.0-windows\contabancaria.runtimeconfig.json
+C:\Users\Aluno\source\repos\contabancaria\contabancaria\bin\Debug\net6.0-windows\contabancaria.dll
+C:\Users\Aluno\source\repos\contabancaria\contabancaria\bin\Debug\net6.0-windows\contabancaria.pdb
+C:\Users\Aluno\source\repos\contabancaria\contabancaria\obj\Debug\net6.0-windows\contabancaria.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\contabancaria\contabancaria\obj\Debug\net6.0-windows\contabancaria.Form1.resources
+C:\Users\Aluno\source\repos\contabancaria\contabancaria\obj\Debug\net6.0-windows\contabancaria.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\contabancaria\contabancaria\obj\Debug\net6.0-windows\contabancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\contabancaria\contabancaria\obj\Debug\net6.0-windows\contabancaria.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\contabancaria\contabancaria\obj\Debug\net6.0-windows\contabancaria.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\contabancaria\contabancaria\obj\Debug\net6.0-windows\contabancaria.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\contabancaria\contabancaria\obj\Debug\net6.0-windows\contabancaria.dll
+C:\Users\Aluno\source\repos\contabancaria\contabancaria\obj\Debug\net6.0-windows\refint\contabancaria.dll
+C:\Users\Aluno\source\repos\contabancaria\contabancaria\obj\Debug\net6.0-windows\contabancaria.pdb
+C:\Users\Aluno\source\repos\contabancaria\contabancaria\obj\Debug\net6.0-windows\contabancaria.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\contabancaria\contabancaria\obj\Debug\net6.0-windows\ref\contabancaria.dll

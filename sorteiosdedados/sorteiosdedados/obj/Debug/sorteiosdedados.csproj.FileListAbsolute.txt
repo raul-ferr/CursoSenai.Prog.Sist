@@ -1,0 +1,11 @@
+C:\Users\Aluno\source\repos\sorteiosdedados\sorteiosdedados\obj\Debug\sorteiosdedados.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\sorteiosdedados\sorteiosdedados\obj\Debug\sorteiosdedados.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\source\repos\sorteiosdedados\sorteiosdedados\obj\Debug\sorteiosdedados.Form1.resources
+C:\Users\Aluno\source\repos\sorteiosdedados\sorteiosdedados\obj\Debug\sorteiosdedados.Properties.Resources.resources
+C:\Users\Aluno\source\repos\sorteiosdedados\sorteiosdedados\obj\Debug\sorteiosdedados.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\sorteiosdedados\sorteiosdedados\obj\Debug\sorteiosdedados.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\sorteiosdedados\sorteiosdedados\bin\Debug\sorteiosdedados.exe.config
+C:\Users\Aluno\source\repos\sorteiosdedados\sorteiosdedados\bin\Debug\sorteiosdedados.exe
+C:\Users\Aluno\source\repos\sorteiosdedados\sorteiosdedados\bin\Debug\sorteiosdedados.pdb
+C:\Users\Aluno\source\repos\sorteiosdedados\sorteiosdedados\obj\Debug\sorteiosdedados.exe
+C:\Users\Aluno\source\repos\sorteiosdedados\sorteiosdedados\obj\Debug\sorteiosdedados.pdb

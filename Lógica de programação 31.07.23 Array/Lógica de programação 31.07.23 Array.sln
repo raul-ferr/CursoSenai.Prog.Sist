@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lógica de programação 31.07.23 Array", "Lógica de programação 31.07.23 Array\Lógica de programação 31.07.23 Array.csproj", "{FD2F1657-BF5A-4800-A0F6-C3D983EDED2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD2F1657-BF5A-4800-A0F6-C3D983EDED2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD2F1657-BF5A-4800-A0F6-C3D983EDED2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD2F1657-BF5A-4800-A0F6-C3D983EDED2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD2F1657-BF5A-4800-A0F6-C3D983EDED2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF51E526-2144-4836-95C9-E098A272DAD8}
+	EndGlobalSection
+EndGlobal

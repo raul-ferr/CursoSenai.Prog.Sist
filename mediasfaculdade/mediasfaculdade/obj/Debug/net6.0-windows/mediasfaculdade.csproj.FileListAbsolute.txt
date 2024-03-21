@@ -1,0 +1,17 @@
+C:\Users\Aluno\source\repos\mediasfaculdade\mediasfaculdade\bin\Debug\net6.0-windows\mediasfaculdade.exe
+C:\Users\Aluno\source\repos\mediasfaculdade\mediasfaculdade\bin\Debug\net6.0-windows\mediasfaculdade.deps.json
+C:\Users\Aluno\source\repos\mediasfaculdade\mediasfaculdade\bin\Debug\net6.0-windows\mediasfaculdade.runtimeconfig.json
+C:\Users\Aluno\source\repos\mediasfaculdade\mediasfaculdade\bin\Debug\net6.0-windows\mediasfaculdade.dll
+C:\Users\Aluno\source\repos\mediasfaculdade\mediasfaculdade\bin\Debug\net6.0-windows\mediasfaculdade.pdb
+C:\Users\Aluno\source\repos\mediasfaculdade\mediasfaculdade\obj\Debug\net6.0-windows\mediasfaculdade.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\mediasfaculdade\mediasfaculdade\obj\Debug\net6.0-windows\mediasfaculdade.Form1.resources
+C:\Users\Aluno\source\repos\mediasfaculdade\mediasfaculdade\obj\Debug\net6.0-windows\mediasfaculdade.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\mediasfaculdade\mediasfaculdade\obj\Debug\net6.0-windows\mediasfaculdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\mediasfaculdade\mediasfaculdade\obj\Debug\net6.0-windows\mediasfaculdade.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\mediasfaculdade\mediasfaculdade\obj\Debug\net6.0-windows\mediasfaculdade.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\mediasfaculdade\mediasfaculdade\obj\Debug\net6.0-windows\mediasfaculdade.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\mediasfaculdade\mediasfaculdade\obj\Debug\net6.0-windows\mediasfaculdade.dll
+C:\Users\Aluno\source\repos\mediasfaculdade\mediasfaculdade\obj\Debug\net6.0-windows\refint\mediasfaculdade.dll
+C:\Users\Aluno\source\repos\mediasfaculdade\mediasfaculdade\obj\Debug\net6.0-windows\mediasfaculdade.pdb
+C:\Users\Aluno\source\repos\mediasfaculdade\mediasfaculdade\obj\Debug\net6.0-windows\mediasfaculdade.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\mediasfaculdade\mediasfaculdade\obj\Debug\net6.0-windows\ref\mediasfaculdade.dll

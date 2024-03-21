@@ -1,0 +1,17 @@
+C:\Users\Aluno\source\repos\Sorveteria Senac\Sorveteria Senac\bin\Debug\net6.0-windows\Sorveteria Senac.exe
+C:\Users\Aluno\source\repos\Sorveteria Senac\Sorveteria Senac\bin\Debug\net6.0-windows\Sorveteria Senac.deps.json
+C:\Users\Aluno\source\repos\Sorveteria Senac\Sorveteria Senac\bin\Debug\net6.0-windows\Sorveteria Senac.runtimeconfig.json
+C:\Users\Aluno\source\repos\Sorveteria Senac\Sorveteria Senac\bin\Debug\net6.0-windows\Sorveteria Senac.dll
+C:\Users\Aluno\source\repos\Sorveteria Senac\Sorveteria Senac\bin\Debug\net6.0-windows\Sorveteria Senac.pdb
+C:\Users\Aluno\source\repos\Sorveteria Senac\Sorveteria Senac\obj\Debug\net6.0-windows\Sorveteria Senac.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\Sorveteria Senac\Sorveteria Senac\obj\Debug\net6.0-windows\Sorveteria_Senac.Form1.resources
+C:\Users\Aluno\source\repos\Sorveteria Senac\Sorveteria Senac\obj\Debug\net6.0-windows\Sorveteria Senac.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\Sorveteria Senac\Sorveteria Senac\obj\Debug\net6.0-windows\Sorveteria Senac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\Sorveteria Senac\Sorveteria Senac\obj\Debug\net6.0-windows\Sorveteria Senac.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\Sorveteria Senac\Sorveteria Senac\obj\Debug\net6.0-windows\Sorveteria Senac.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\Sorveteria Senac\Sorveteria Senac\obj\Debug\net6.0-windows\Sorveteria Senac.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\Sorveteria Senac\Sorveteria Senac\obj\Debug\net6.0-windows\Sorveteria Senac.dll
+C:\Users\Aluno\source\repos\Sorveteria Senac\Sorveteria Senac\obj\Debug\net6.0-windows\refint\Sorveteria Senac.dll
+C:\Users\Aluno\source\repos\Sorveteria Senac\Sorveteria Senac\obj\Debug\net6.0-windows\Sorveteria Senac.pdb
+C:\Users\Aluno\source\repos\Sorveteria Senac\Sorveteria Senac\obj\Debug\net6.0-windows\Sorveteria Senac.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\Sorveteria Senac\Sorveteria Senac\obj\Debug\net6.0-windows\ref\Sorveteria Senac.dll

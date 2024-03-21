@@ -1,0 +1,11 @@
+C:\Users\Aluno\source\repos\E ou OU\E ou OU\obj\Debug\E ou OU.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\E ou OU\E ou OU\obj\Debug\E ou OU.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\source\repos\E ou OU\E ou OU\obj\Debug\E_ou_OU.Form1.resources
+C:\Users\Aluno\source\repos\E ou OU\E ou OU\obj\Debug\E_ou_OU.Properties.Resources.resources
+C:\Users\Aluno\source\repos\E ou OU\E ou OU\obj\Debug\E ou OU.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\E ou OU\E ou OU\obj\Debug\E ou OU.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\E ou OU\E ou OU\bin\Debug\E ou OU.exe.config
+C:\Users\Aluno\source\repos\E ou OU\E ou OU\bin\Debug\E ou OU.exe
+C:\Users\Aluno\source\repos\E ou OU\E ou OU\bin\Debug\E ou OU.pdb
+C:\Users\Aluno\source\repos\E ou OU\E ou OU\obj\Debug\E ou OU.exe
+C:\Users\Aluno\source\repos\E ou OU\E ou OU\obj\Debug\E ou OU.pdb

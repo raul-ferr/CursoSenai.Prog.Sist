@@ -1,0 +1,17 @@
+C:\Users\Aluno\source\repos\projeto3\projeto3\bin\Debug\net6.0-windows\projeto3.exe
+C:\Users\Aluno\source\repos\projeto3\projeto3\bin\Debug\net6.0-windows\projeto3.deps.json
+C:\Users\Aluno\source\repos\projeto3\projeto3\bin\Debug\net6.0-windows\projeto3.runtimeconfig.json
+C:\Users\Aluno\source\repos\projeto3\projeto3\bin\Debug\net6.0-windows\projeto3.dll
+C:\Users\Aluno\source\repos\projeto3\projeto3\bin\Debug\net6.0-windows\projeto3.pdb
+C:\Users\Aluno\source\repos\projeto3\projeto3\obj\Debug\net6.0-windows\projeto3.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\projeto3\projeto3\obj\Debug\net6.0-windows\projeto3.Form1.resources
+C:\Users\Aluno\source\repos\projeto3\projeto3\obj\Debug\net6.0-windows\projeto3.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\projeto3\projeto3\obj\Debug\net6.0-windows\projeto3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\projeto3\projeto3\obj\Debug\net6.0-windows\projeto3.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\projeto3\projeto3\obj\Debug\net6.0-windows\projeto3.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\projeto3\projeto3\obj\Debug\net6.0-windows\projeto3.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\projeto3\projeto3\obj\Debug\net6.0-windows\projeto3.dll
+C:\Users\Aluno\source\repos\projeto3\projeto3\obj\Debug\net6.0-windows\refint\projeto3.dll
+C:\Users\Aluno\source\repos\projeto3\projeto3\obj\Debug\net6.0-windows\projeto3.pdb
+C:\Users\Aluno\source\repos\projeto3\projeto3\obj\Debug\net6.0-windows\projeto3.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\projeto3\projeto3\obj\Debug\net6.0-windows\ref\projeto3.dll

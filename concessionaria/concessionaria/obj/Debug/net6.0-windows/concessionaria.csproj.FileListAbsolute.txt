@@ -1,0 +1,17 @@
+C:\Users\Aluno\source\repos\concessionaria\concessionaria\bin\Debug\net6.0-windows\concessionaria.exe
+C:\Users\Aluno\source\repos\concessionaria\concessionaria\bin\Debug\net6.0-windows\concessionaria.deps.json
+C:\Users\Aluno\source\repos\concessionaria\concessionaria\bin\Debug\net6.0-windows\concessionaria.runtimeconfig.json
+C:\Users\Aluno\source\repos\concessionaria\concessionaria\bin\Debug\net6.0-windows\concessionaria.dll
+C:\Users\Aluno\source\repos\concessionaria\concessionaria\bin\Debug\net6.0-windows\concessionaria.pdb
+C:\Users\Aluno\source\repos\concessionaria\concessionaria\obj\Debug\net6.0-windows\concessionaria.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\concessionaria\concessionaria\obj\Debug\net6.0-windows\concessionaria.Form1.resources
+C:\Users\Aluno\source\repos\concessionaria\concessionaria\obj\Debug\net6.0-windows\concessionaria.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\concessionaria\concessionaria\obj\Debug\net6.0-windows\concessionaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\concessionaria\concessionaria\obj\Debug\net6.0-windows\concessionaria.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\concessionaria\concessionaria\obj\Debug\net6.0-windows\concessionaria.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\concessionaria\concessionaria\obj\Debug\net6.0-windows\concessionaria.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\concessionaria\concessionaria\obj\Debug\net6.0-windows\concessionaria.dll
+C:\Users\Aluno\source\repos\concessionaria\concessionaria\obj\Debug\net6.0-windows\refint\concessionaria.dll
+C:\Users\Aluno\source\repos\concessionaria\concessionaria\obj\Debug\net6.0-windows\concessionaria.pdb
+C:\Users\Aluno\source\repos\concessionaria\concessionaria\obj\Debug\net6.0-windows\concessionaria.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\concessionaria\concessionaria\obj\Debug\net6.0-windows\ref\concessionaria.dll

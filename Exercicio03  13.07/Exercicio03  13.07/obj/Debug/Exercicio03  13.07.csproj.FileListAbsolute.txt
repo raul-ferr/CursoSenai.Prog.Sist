@@ -1,0 +1,11 @@
+C:\Users\Aluno\source\repos\Exercicio03  13.07\Exercicio03  13.07\bin\Debug\Exercicio03  13.07.exe.config
+C:\Users\Aluno\source\repos\Exercicio03  13.07\Exercicio03  13.07\bin\Debug\Exercicio03  13.07.exe
+C:\Users\Aluno\source\repos\Exercicio03  13.07\Exercicio03  13.07\bin\Debug\Exercicio03  13.07.pdb
+C:\Users\Aluno\source\repos\Exercicio03  13.07\Exercicio03  13.07\obj\Debug\Exercicio03  13.07.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\Exercicio03  13.07\Exercicio03  13.07\obj\Debug\Exercicio03  13.07.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\source\repos\Exercicio03  13.07\Exercicio03  13.07\obj\Debug\Exercicio03__13._07.Form1.resources
+C:\Users\Aluno\source\repos\Exercicio03  13.07\Exercicio03  13.07\obj\Debug\Exercicio03__13._07.Properties.Resources.resources
+C:\Users\Aluno\source\repos\Exercicio03  13.07\Exercicio03  13.07\obj\Debug\Exercicio03  13.07.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\Exercicio03  13.07\Exercicio03  13.07\obj\Debug\Exercicio03  13.07.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\Exercicio03  13.07\Exercicio03  13.07\obj\Debug\Exercicio03  13.07.exe
+C:\Users\Aluno\source\repos\Exercicio03  13.07\Exercicio03  13.07\obj\Debug\Exercicio03  13.07.pdb

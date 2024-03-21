@@ -1,0 +1,17 @@
+C:\Users\Aluno\source\repos\tabuada2\tabuada2\obj\Debug\net6.0-windows\tabuada2.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\tabuada2\tabuada2\obj\Debug\net6.0-windows\tabuada2.Form1.resources
+C:\Users\Aluno\source\repos\tabuada2\tabuada2\obj\Debug\net6.0-windows\tabuada2.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\tabuada2\tabuada2\obj\Debug\net6.0-windows\tabuada2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\tabuada2\tabuada2\obj\Debug\net6.0-windows\tabuada2.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\tabuada2\tabuada2\obj\Debug\net6.0-windows\tabuada2.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\tabuada2\tabuada2\obj\Debug\net6.0-windows\tabuada2.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\tabuada2\tabuada2\bin\Debug\net6.0-windows\tabuada2.exe
+C:\Users\Aluno\source\repos\tabuada2\tabuada2\bin\Debug\net6.0-windows\tabuada2.deps.json
+C:\Users\Aluno\source\repos\tabuada2\tabuada2\bin\Debug\net6.0-windows\tabuada2.runtimeconfig.json
+C:\Users\Aluno\source\repos\tabuada2\tabuada2\bin\Debug\net6.0-windows\tabuada2.dll
+C:\Users\Aluno\source\repos\tabuada2\tabuada2\bin\Debug\net6.0-windows\tabuada2.pdb
+C:\Users\Aluno\source\repos\tabuada2\tabuada2\obj\Debug\net6.0-windows\tabuada2.dll
+C:\Users\Aluno\source\repos\tabuada2\tabuada2\obj\Debug\net6.0-windows\refint\tabuada2.dll
+C:\Users\Aluno\source\repos\tabuada2\tabuada2\obj\Debug\net6.0-windows\tabuada2.pdb
+C:\Users\Aluno\source\repos\tabuada2\tabuada2\obj\Debug\net6.0-windows\tabuada2.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\tabuada2\tabuada2\obj\Debug\net6.0-windows\ref\tabuada2.dll

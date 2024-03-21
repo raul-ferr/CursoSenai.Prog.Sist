@@ -1,0 +1,17 @@
+C:\Users\Aluno\source\repos\fibonnaci\fibonnaci\obj\Debug\net6.0-windows\fibonnaci.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\fibonnaci\fibonnaci\obj\Debug\net6.0-windows\fibonnaci.Form1.resources
+C:\Users\Aluno\source\repos\fibonnaci\fibonnaci\obj\Debug\net6.0-windows\fibonnaci.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\fibonnaci\fibonnaci\obj\Debug\net6.0-windows\fibonnaci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\fibonnaci\fibonnaci\obj\Debug\net6.0-windows\fibonnaci.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\fibonnaci\fibonnaci\obj\Debug\net6.0-windows\fibonnaci.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\fibonnaci\fibonnaci\obj\Debug\net6.0-windows\fibonnaci.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\fibonnaci\fibonnaci\bin\Debug\net6.0-windows\fibonnaci.exe
+C:\Users\Aluno\source\repos\fibonnaci\fibonnaci\bin\Debug\net6.0-windows\fibonnaci.deps.json
+C:\Users\Aluno\source\repos\fibonnaci\fibonnaci\bin\Debug\net6.0-windows\fibonnaci.runtimeconfig.json
+C:\Users\Aluno\source\repos\fibonnaci\fibonnaci\bin\Debug\net6.0-windows\fibonnaci.dll
+C:\Users\Aluno\source\repos\fibonnaci\fibonnaci\bin\Debug\net6.0-windows\fibonnaci.pdb
+C:\Users\Aluno\source\repos\fibonnaci\fibonnaci\obj\Debug\net6.0-windows\fibonnaci.dll
+C:\Users\Aluno\source\repos\fibonnaci\fibonnaci\obj\Debug\net6.0-windows\refint\fibonnaci.dll
+C:\Users\Aluno\source\repos\fibonnaci\fibonnaci\obj\Debug\net6.0-windows\fibonnaci.pdb
+C:\Users\Aluno\source\repos\fibonnaci\fibonnaci\obj\Debug\net6.0-windows\fibonnaci.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\fibonnaci\fibonnaci\obj\Debug\net6.0-windows\ref\fibonnaci.dll

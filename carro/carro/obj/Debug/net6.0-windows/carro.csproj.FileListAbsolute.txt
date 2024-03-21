@@ -1,0 +1,17 @@
+C:\Users\Aluno\source\repos\carro\carro\obj\Debug\net6.0-windows\carro.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\carro\carro\obj\Debug\net6.0-windows\carro.Form1.resources
+C:\Users\Aluno\source\repos\carro\carro\obj\Debug\net6.0-windows\carro.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\carro\carro\obj\Debug\net6.0-windows\carro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\carro\carro\obj\Debug\net6.0-windows\carro.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\carro\carro\obj\Debug\net6.0-windows\carro.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\carro\carro\obj\Debug\net6.0-windows\carro.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\carro\carro\bin\Debug\net6.0-windows\carro.exe
+C:\Users\Aluno\source\repos\carro\carro\bin\Debug\net6.0-windows\carro.deps.json
+C:\Users\Aluno\source\repos\carro\carro\bin\Debug\net6.0-windows\carro.runtimeconfig.json
+C:\Users\Aluno\source\repos\carro\carro\bin\Debug\net6.0-windows\carro.dll
+C:\Users\Aluno\source\repos\carro\carro\bin\Debug\net6.0-windows\carro.pdb
+C:\Users\Aluno\source\repos\carro\carro\obj\Debug\net6.0-windows\carro.dll
+C:\Users\Aluno\source\repos\carro\carro\obj\Debug\net6.0-windows\refint\carro.dll
+C:\Users\Aluno\source\repos\carro\carro\obj\Debug\net6.0-windows\carro.pdb
+C:\Users\Aluno\source\repos\carro\carro\obj\Debug\net6.0-windows\carro.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\carro\carro\obj\Debug\net6.0-windows\ref\carro.dll

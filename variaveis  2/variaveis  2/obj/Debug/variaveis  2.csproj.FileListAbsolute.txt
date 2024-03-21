@@ -1,0 +1,11 @@
+C:\Users\Aluno\source\repos\variaveis  2\variaveis  2\bin\Debug\variaveis  2.exe.config
+C:\Users\Aluno\source\repos\variaveis  2\variaveis  2\bin\Debug\variaveis  2.exe
+C:\Users\Aluno\source\repos\variaveis  2\variaveis  2\bin\Debug\variaveis  2.pdb
+C:\Users\Aluno\source\repos\variaveis  2\variaveis  2\obj\Debug\variaveis  2.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\variaveis  2\variaveis  2\obj\Debug\variaveis  2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\source\repos\variaveis  2\variaveis  2\obj\Debug\variaveis__2.multiplicacao.resources
+C:\Users\Aluno\source\repos\variaveis  2\variaveis  2\obj\Debug\variaveis__2.Properties.Resources.resources
+C:\Users\Aluno\source\repos\variaveis  2\variaveis  2\obj\Debug\variaveis  2.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\variaveis  2\variaveis  2\obj\Debug\variaveis  2.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\variaveis  2\variaveis  2\obj\Debug\variaveis  2.exe
+C:\Users\Aluno\source\repos\variaveis  2\variaveis  2\obj\Debug\variaveis  2.pdb

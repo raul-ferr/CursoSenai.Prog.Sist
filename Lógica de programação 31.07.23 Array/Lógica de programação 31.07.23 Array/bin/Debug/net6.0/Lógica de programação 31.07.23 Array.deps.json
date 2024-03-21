@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Lógica de programação 31.07.23 Array/1.0.0": {
+        "runtime": {
+          "Lógica de programação 31.07.23 Array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lógica de programação 31.07.23 Array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

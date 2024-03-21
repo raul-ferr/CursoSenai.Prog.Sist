@@ -1,0 +1,17 @@
+C:\Users\Aluno\source\repos\verificarusuario\verificarusuario\bin\Debug\net6.0-windows\verificarusuario.exe
+C:\Users\Aluno\source\repos\verificarusuario\verificarusuario\bin\Debug\net6.0-windows\verificarusuario.deps.json
+C:\Users\Aluno\source\repos\verificarusuario\verificarusuario\bin\Debug\net6.0-windows\verificarusuario.runtimeconfig.json
+C:\Users\Aluno\source\repos\verificarusuario\verificarusuario\bin\Debug\net6.0-windows\verificarusuario.dll
+C:\Users\Aluno\source\repos\verificarusuario\verificarusuario\bin\Debug\net6.0-windows\verificarusuario.pdb
+C:\Users\Aluno\source\repos\verificarusuario\verificarusuario\obj\Debug\net6.0-windows\verificarusuario.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\verificarusuario\verificarusuario\obj\Debug\net6.0-windows\verificarusuario.Form1.resources
+C:\Users\Aluno\source\repos\verificarusuario\verificarusuario\obj\Debug\net6.0-windows\verificarusuario.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\verificarusuario\verificarusuario\obj\Debug\net6.0-windows\verificarusuario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\verificarusuario\verificarusuario\obj\Debug\net6.0-windows\verificarusuario.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\verificarusuario\verificarusuario\obj\Debug\net6.0-windows\verificarusuario.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\verificarusuario\verificarusuario\obj\Debug\net6.0-windows\verificarusuario.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\verificarusuario\verificarusuario\obj\Debug\net6.0-windows\verificarusuario.dll
+C:\Users\Aluno\source\repos\verificarusuario\verificarusuario\obj\Debug\net6.0-windows\refint\verificarusuario.dll
+C:\Users\Aluno\source\repos\verificarusuario\verificarusuario\obj\Debug\net6.0-windows\verificarusuario.pdb
+C:\Users\Aluno\source\repos\verificarusuario\verificarusuario\obj\Debug\net6.0-windows\verificarusuario.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\verificarusuario\verificarusuario\obj\Debug\net6.0-windows\ref\verificarusuario.dll

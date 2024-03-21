@@ -1,0 +1,3 @@
+﻿Compilação iniciada...
+1>  rpgSenac -> C:\Users\Aluno\source\repos\programadorSistema-main\Console\rpgSenac\rpgSenac\bin\Debug\rpgSenac.exe
+========== Compilação: 1 bem-sucedida, 0 com falha, 0 atualizada, 0 ignorada ==========
